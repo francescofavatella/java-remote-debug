@@ -4,3 +4,4 @@ services:
     build: spring-boot/
     ports:
       - 8080:8080
+      - 5005:5005
